@@ -1,0 +1,217 @@
+.loginPage{
+  align-items: center;
+  justify-content: space-around;
+  height: 120vh;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+}
+.logo{
+  min-width: 0%;
+  color: grey;
+}
+.login_container{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 500px;
+  height: 600px;
+  margin-top: 18px;
+  min-width: 500px;
+  align-items: center;
+  padding: 0px;
+  color: black;
+  border-radius: 20px;
+  box-shadow: 0px 10px 50px gray;
+}
+.loginPageImg{
+  height: 225px;
+  width: 225px;
+}
+.swipe{
+  display: flex;
+  padding-left:100px;
+}
+.s{
+  color: yellow;
+  text-shadow: 0px 10px 50px gray;
+}
+.w{
+  color:greenyellow;
+}
+.i{
+  color: rgb(22, 188, 253);
+}
+.p{
+  color: blue;
+}
+.E{
+  color: yellow;
+}
+.Dgmail{
+  color: rgb(0, 110, 255);
+  cursor: pointer;
+}
+.input-field{
+  max-width: 380px;
+  width: 380px;
+  background-color: #f0f0f0;
+  margin: 10px 0;
+  height: 55px;
+  border-radius: 55px;
+  display: grid;
+  grid-template-columns: 15% 85%;
+  padding: 0 0.4rem;
+  position: relative;
+}
+.input-field i {
+  text-align: center;
+  line-height: 55px;
+  color: #acacac;
+  transition: 0.5s;
+  font-size: 1.8rem;
+  align-items: center;
+}
+.input-field input {
+  background: none;
+  outline: none;
+  border: none;
+  line-height: 1;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #333;
+}
+.input-field input::placeholder {
+  color: #aaa;
+  font-weight: 500;
+}
+.login_container > h1{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.user-input-box{
+  width: 300px;
+}
+.login_singInButton{
+  background-color: rgb(64, 161, 252);
+  height: 40px;
+  width: 200px;
+  border-radius: 30px;
+  border:1px solid rgb(64, 161, 252);
+  color: white;
+  font-size: 20px;
+  transition: 0.5s;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.login_singInButton:hover{
+  background-color:rgb(88, 185, 255);
+}
+.Forgottenpassword{
+  color: rgb(83, 182, 248);
+  cursor: pointer;
+  margin-bottom: 30px;
+  margin-top: 10px;
+
+}
+.Forgottenpassword:hover{
+  text-decoration: underline;
+}
+.login_singUpButton{
+  background-color: rgb(12, 224, 161);
+  height: 50px;
+  width: 250px;
+  border-radius: 5px;
+  border:1px solid rgb(12, 224, 161);
+  color: white;
+  font-size: 20px;
+  transition: 0.5s;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.login_singUpButton:hover{
+  background-color: rgb(55, 241, 185);
+}
+.social-media {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.social-icon-facebook {
+  height: 46px;
+  width: 46px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0.45rem;
+  color: #333;
+  border-radius: 50%;
+  border: 1px solid #333;
+  text-decoration: none;
+  font-size: 1.8rem;
+  transition: 0.3s;
+  color: #4481eb;
+  border-color: #4481eb;
+}
+.social-icon-twitter {
+  height: 46px;
+  width: 46px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0.45rem;
+  color: #333;
+  border-radius: 50%;
+  border: 1px solid #333;
+  text-decoration: none;
+  font-size: 1.8rem;
+  transition: 0.3s;
+  color: #23aff5;
+  border-color: #23aff5;
+}
+.social-icon-instagram {
+  height: 46px;
+  width: 46px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0.45rem;
+  color: #333;
+  border-radius: 50%;
+  border: 1px solid #333;
+  text-decoration: none;
+  font-size: 1.8rem;
+  transition: 0.3s;
+  color: #f11969;
+  border-color: #f01179;
+}
+.social-icon-linkedin {
+  height: 46px;
+  width: 46px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0.45rem;
+  color: #333;
+  border-radius: 50%;
+  border: 1px solid #333;
+  text-decoration: none;
+  font-size: 1.8rem;
+  transition: 0.3s;
+  color: #4481eb;
+  border-color: #4481eb;
+}
+.social-icon-facebook:hover{
+  background-color: whitesmoke;
+}
+.social-icon-instagram:hover{
+  background-color: whitesmoke;
+}
+.social-icon-twitter:hover{
+  background-color: whitesmoke;
+}
+.social-icon-linkedin:hover{
+  background-color: whitesmoke;
+}
+

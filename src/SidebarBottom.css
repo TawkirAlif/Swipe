@@ -1,0 +1,114 @@
+.totalUser_box{
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        margin: 10px 20px;
+        background-color: rgb(231, 232, 234);
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        max-width:fit-content;
+        margin-bottom: 20px;
+}
+.totalUser_box>h7{
+        margin-left: 20px;
+        align-items: center;
+        text-align: center;
+        font-size: 16px;
+}
+.developerContact>img{
+        height: 17px;
+}
+.developerContact{
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        margin: 0 13px;
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        width: 200px;
+        cursor: pointer;
+}
+.developerContact>p{
+        margin-left: 10px;
+        align-items: center;
+        text-align: center;
+        font-size: 14px;
+}
+.developerContact:hover{
+        background-color: #dbdbdc;
+}
+.feedback_box{
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        margin: 0 13px;
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        width: 320px;
+        cursor: pointer;
+}
+.feedback_question>h4{
+        margin-left: 10px;
+        align-items: center;
+        text-align: center;
+        font-size: 14px;
+}
+.feedback_question>p{
+        margin-left: 10px;
+        align-items: center;
+        text-align: center;
+        font-size: 10px;
+}
+.feedback_box:hover{
+        background-color: #dbdbdc;
+}
+.feedbackIcon{
+        background-color: #d4d6d9;
+        border-radius: 999px;
+        transition: 0.5s;
+        align-items: center;
+        text-align: center;
+        font-size: 2px;
+        padding: 4px;
+}
+.help_button_box{
+        display: flex;
+        align-items: center;
+        padding: 10px 10px;
+        margin: 0 13px;
+        border-radius: 10px;
+        align-items: center;
+        text-align: center;
+        width: 320px;
+        cursor: pointer;
+}
+.help_button_box:hover{
+        background-color: #dbdbdc;
+}
+.help_button_box>p{
+        margin-left: 10px;
+        align-items: center;
+        text-align: center;
+        font-size: 15px;
+}
+.helpIcon{
+        background-color: #d4d6d9;
+        border-radius: 999px;
+        transition: 0.5s;
+        align-items: center;
+        text-align: center;
+        font-size: 2px;
+        padding: 4px;
+}
+
+.copiright_bio>p{
+        margin-left: 3px;
+        margin-top: 20px;
+        margin-bottom: 1px;
+        align-items: center;
+        text-align: center;
+        font-size: 13px;
+}

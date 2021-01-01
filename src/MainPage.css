@@ -1,0 +1,7 @@
+.app_body{
+        display: flex;
+        background-color: #ebeef1;
+        position: fixed; 
+        height: 92vh;
+
+}

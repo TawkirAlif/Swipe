@@ -1,0 +1,35 @@
+.sidebar{
+        width: 360px;
+        border-right: 1px solid lightgray;
+        min-width: 0px;
+
+}
+.sidebarStory_container{
+        display: flex;
+        padding-left: 12px;
+}
+.sidebarInfo_container{
+        overflow-y: scroll;
+        scroll-behavior: smooth;
+        height: 72vh;
+        position: fixed; 
+        width: 360px;
+        overflow-x: unset;
+        -ms-overflow-style: none;
+        scrollbar-width:none;
+}
+.sidebarInfo_container::-webkit-scrollbar{
+        display: none;
+}
+.sidebarStory_container{
+        overflow-x: scroll;
+        -ms-overflow-style: none;
+        scrollbar-width:none;
+        scroll-behavior: smooth;
+        
+}
+.sidebarStory_container::-webkit-scrollbar{
+        display: none;
+}
+
+

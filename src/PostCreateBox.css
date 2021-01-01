@@ -1,0 +1,135 @@
+.postcreatebox{
+        margin: 10px 16px;
+
+}
+.postCreator_box{
+        height: 180px;
+        width: 570px;
+        align-items: center;
+        background-color: white;
+        border-radius: 12px;
+        box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+        height: fit-content;
+}
+.postCreator_avatar{
+        border: 2px solid rgb(0, 128, 255);
+        cursor: pointer;
+}
+.postInput_box{
+        display: flex;
+        padding-left: 15px;
+        padding-top: 15px;
+        align-items: center;
+        
+}
+.postInput_box > .MuiSvgIcon-root{
+        color: rgb(162, 162, 162);
+        padding: 3px;
+        margin-right: 20px;
+        background-color: #e8e8e8;
+        border-radius: 999px;
+        transition: 0.5s;
+        align-items: center;
+        text-align: center;
+
+}
+.postInput_box > .MuiSvgIcon-root:hover{
+    cursor: pointer;
+}
+.postInput{
+        margin: 0 15px;
+        background-color: #eff2f5;
+        outline: none;
+        border-radius: 20px;
+        border: none;
+        padding: 10px 20px;
+        line-height: 1;
+        font-weight: 600;
+        font-size: 1.1rem;
+        color: #333;
+        width: 400px;
+}
+
+.postBox_middle{
+        display: flex;
+        align-items: center;
+        padding: 10px 0px;
+        margin: 0 40px;
+}
+.liveOption_h3{
+        margin-top: 4px;
+        margin-left: 10px;
+        font-size: medium;
+        text-transform: initial;
+        color: rgb(98, 98, 98);
+}
+.photoVideo_option_h3{
+        margin-left: 10px;
+        font-size: medium;
+        text-transform: initial;
+        color: rgb(98, 98, 98);
+}
+.postBox_audience>h3{
+        margin-left: 10px;
+        font-size: medium;
+        color: rgb(98, 98, 98);
+}
+
+.liveOption{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+        background-color: white;
+        width: 150px;
+        justify-content: center;
+}
+.liveOption:hover{
+        background-color: #eff2f5;
+        transition: 0.3s;
+}
+.photoVideo_option{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+        background-color: white;
+        width: 160px;
+        justify-content: center;
+}
+.photoVideo_option:hover{
+        background-color: #eff2f5;
+        transition: 0.3s;
+}
+.postBox_audience{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+        background-color:white;
+        width: 150px;
+        justify-content: center;
+}
+.postBox_audience:hover{
+        background-color: #eff2f5;
+        transition: 0.3s;
+}
+.postBox_bottom>Button{
+        background-color: rgb(30, 131, 255);
+        color: white;
+        width: 500px;
+        border-radius: 20px;
+        height: fit-content;
+        margin-bottom:10px;
+}
+.postBox_bottom>Button:hover{
+        background-color: rgb(63, 149, 255);
+        color: white;
+        transition: 0.8s;
+}

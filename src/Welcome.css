@@ -1,0 +1,25 @@
+.welcome_box{
+        display: grid;
+        place-items: center;
+        padding-top: 225px;
+
+}
+.welcome_img{
+        margin-top: 20px;
+        height: 100px;
+        width: 100px;
+        padding-bottom: 10px;
+}
+.loadingImg{
+        width: 200px;
+}
+@keyframes fadeIn{
+        to{
+                opacity: 1;
+        }
+}
+
+.fadeIn{
+        opacity: 0;
+        animation: fadeIn 1s ease-in forwards;
+}

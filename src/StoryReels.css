@@ -1,0 +1,46 @@
+.story_container{
+        margin-top: 5px;
+        background-color: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+        border-top: 1px solid 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+        box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+        cursor: pointer;
+        margin-bottom: 0px;
+
+}
+
+.avatar{
+        border: 2px solid rgb(255, 58, 58);
+        margin:  0 7px;
+        cursor: pointer;
+
+}
+.story_head{
+        display: flex;
+        flex: 1;
+        padding: 10px 0px;
+}
+.storyInfo_box{
+        display: table-row;
+        align-items: center;
+        padding: 11px;
+        margin: 0 3px;
+        height: 80px;
+        border-radius: 6px;
+        background-color: lightgray;
+        transition: transform 100ms ease-in;
+}
+.storyInfo_box:hover{
+        background-color: rgb(203, 202, 202);
+        transition: 0.1s;
+        transform: scale(1.07);
+}
+.storyInfo_box>p{
+        margin-top: 20px;
+        font-size: 13px;
+        font-weight: 500;
+        max-width: 50px;
+        max-height: 20px;
+        margin-left: 3.5px;
+        align-items: center;
+        justify-content: center;
+}

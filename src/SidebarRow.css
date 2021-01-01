@@ -1,0 +1,237 @@
+.sidebarRow{
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.userInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 340px;
+        max-width: 340px;
+        align-items: center;
+        padding: 5px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.Badges{
+        margin-top:2px;
+}
+.userInfo_box>h8{
+        margin-left: 5px;
+        max-height: 50px;
+}
+.userInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.covidInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 340px;
+        max-width: 340px;
+        align-items: center;
+        padding: 12px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.covidInfo_box>h7{
+        margin-left: 13px;
+        max-height: 50px;
+        font-size: 15px;
+}
+.covidInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.covidInfo_box>img{
+        height: 25px;
+}
+
+
+.followerInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 340px;
+        max-width: 340px;
+        align-items: center;
+        padding: 12px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.followerInfo_box>h7{
+        margin-left: 13px;
+        max-height: 50px;
+        font-size: 15px;
+}
+.followerInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.followerInfo_box>img{
+        height: 25px;
+}
+
+
+
+.musicInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 340px;
+        max-width: 340px;
+        align-items: center;
+        padding: 12px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.musicInfo_box>h7{
+        margin-left: 13px;
+        max-height: 50px;
+        font-size: 15px;
+}
+.musicInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.musicInfo_box>img{
+        height: 25px;
+}
+
+
+
+.gameInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 340px;
+        max-width: 340px;
+        align-items: center;
+        padding: 12px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.gameInfo_box>h7{
+        margin-left: 13px;
+        max-height: 50px;
+        font-size: 15px;
+}
+.gameInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.gameInfo_box>img{
+        height: 25px;
+}
+
+.trandingInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 340px;
+        max-width: 340px;
+        align-items: center;
+        padding: 12px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.trandingInfo_box>h7{
+        margin-left: 13px;
+        max-height: 50px;
+        font-size: 15px;
+}
+.trandingInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.trandingInfo_box>img{
+        height: 25px;
+}
+
+
+
+.watherInfo_box{
+        display: flex;
+        max-height: 50px;
+        min-width: 100px;
+        max-width: 100px;
+        align-items: center;
+        padding: 12px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.watherInfo_box>h7{
+        margin-left: 13px;
+        max-height: 50px;
+        font-size: 15px;
+}
+.watherInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.watherInfo_box>img{
+        height: 25px;
+}
+
+
+.adInfo_box{
+        display: flex;
+        min-width: 120px;
+        max-width: 120px;
+        align-items: center;
+        padding: 10px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.adInfo_box>h7{
+        margin-left: 13px;
+        font-size: 15px;
+}
+.adInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.adInfo_box>img{
+        height: 25px;
+}
+
+
+.offerInfo_box{
+        display: flex;
+        min-width: 90px;
+        max-width: 90px;
+        align-items: center;
+        padding: 10px 3px;
+        border-radius: 10px;
+        color: black;
+        transition: 0.5s;
+}
+.offerInfo_box>h7{
+        margin-left: 10px;
+        font-size: 15px;
+}
+.offerInfo_box:hover{
+        background-color: #dbdbdc;
+        cursor: pointer;
+        transition: 0.3s;
+}
+.threeOption_box{
+        display: flex;
+}
+

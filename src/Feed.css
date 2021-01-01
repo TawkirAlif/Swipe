@@ -1,0 +1,14 @@
+.feed{
+        width: 603px;
+        justify-content: space-around;
+}
+.feed_container{
+        border-right: 1px solid lightgray;
+        overflow-y: scroll;
+        scroll-behavior: smooth;
+        -ms-overflow-style: none;
+        scrollbar-width:none;
+}
+.feed_container::-webkit-scrollbar{
+        display: none;
+}
