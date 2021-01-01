@@ -40,7 +40,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 
-[<img src="https://gm1.ggpht.com/lT-JEDOyg7qfjP7so6CTBJzmNavq6cAfCIHpODd8J2fwPc9E1e1XiKrRIsU82soqmG0bpQ1gculmdudXjzMxabiYKMD6dJ1uMmVT24vhJN7omN1gjH8VDew1ypZJsrtd3oTYdxFwG7PPRb7lm1Wftv3GcrGDkV_I3AyEppYUcit3plHCHaPH0QiO9S1ohUM62s49gZ0p7W1hdr8rU1rO217wc0vCyoQsbV7Z10lqvDRMWeg4lTRMnIXJEscNVROdj5aeb2lkPUSCg6aNT6zdsHJbMWCEV-EBG-w8hDzkNN3RCnLA3NUEU8vfs--d0Z8F_0WQuwAo79eZ4EaAStB5cUM1g0-SL0Rjy4Bxc8BvQjp9p5kXPy5m-Qt7kVNMcDDKjvomHxmGqw_WA8hZGsSP0aE-5xb_4sN8G5EEzbiBEZYjyLIZySjoHi9JObpjxqm61MxKqGn0QiWX6coGp7Y9D2PoTA2XBLoSvUj-R-TCvjyXhAQU5HxmZ9ZnkZfVhNIBo45xm0xCiuT3SWaIROuiNfqXHis7Ff80gUpD4PgE4MLnCZOIZ1sJY6mOe7gbsBKv2zavZaYPjuGPbti79Satswefn1pFSyrJJd2qFBCn1Ito_rvOTtqmg0YJeQtgFChbV_hiB051UUXkc0vFn1IBuJOa8TXaw_grOur4m8cTAKBFQVo3Js2VILNY-yj7L2xevUFLhr1xg8QYrAqDavXAgR1pFLPmtyjefalLGnsYlWJjSApuDMXV6OqmDJMksS1YSsv2DA=s0-l75-ft-l75-ft" alt="Swipe"  />]
+
 
 ## Learn More
 
